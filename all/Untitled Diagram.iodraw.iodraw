@@ -40,7 +40,7 @@
         <mxCell id="C2axAercNKt_Bjm0GA5F-14" value="tree" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="595" y="190" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C2axAercNKt_Bjm0GA5F-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="C2axAercNKt_Bjm0GA5F-19" value="forest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="585" y="120" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
