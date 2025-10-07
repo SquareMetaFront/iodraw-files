@@ -463,9 +463,6 @@
         <mxCell id="6apd7ADB_zLI03FITVuS-12" value="3.Nagetive offset esp&amp;nbsp;&lt;div&gt;and reference ebp&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="-1817" y="552" width="136" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="6apd7ADB_zLI03FITVuS-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-847" y="447" width="42" height="28" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
