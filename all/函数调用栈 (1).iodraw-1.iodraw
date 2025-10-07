@@ -7,9 +7,6 @@
         <mxCell id="AdunGHRkNPtDli5gjXlM-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="-2350" y="836" width="76" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="6apd7ADB_zLI03FITVuS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AdunGHRkNPtDli5gjXlM-23" target="6apd7ADB_zLI03FITVuS-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="AdunGHRkNPtDli5gjXlM-23" value="EBP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2262" y="837" width="72" height="32" as="geometry" />
         </mxCell>
@@ -457,8 +454,8 @@
         <mxCell id="6apd7ADB_zLI03FITVuS-1" value="Record ebp." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="-2354" y="698" width="84" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="6apd7ADB_zLI03FITVuS-5" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2286" y="711" width="120" height="60" as="geometry" />
+        <mxCell id="6apd7ADB_zLI03FITVuS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1992" y="795" width="72" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
