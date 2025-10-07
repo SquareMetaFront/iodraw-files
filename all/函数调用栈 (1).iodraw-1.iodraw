@@ -460,6 +460,9 @@
         <mxCell id="6apd7ADB_zLI03FITVuS-11" value="2.&lt;span style=&quot;background-color: initial;&quot;&gt;Update ebp to esp&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;div&gt;as address pointer&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="-2099" y="694" width="130" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="6apd7ADB_zLI03FITVuS-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1733" y="559" width="42" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
