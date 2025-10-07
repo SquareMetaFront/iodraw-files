@@ -452,7 +452,10 @@
           <mxGeometry x="-279" y="988.5" width="48" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6apd7ADB_zLI03FITVuS-1" value="Record ebp." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2338" y="638" width="84" height="28" as="geometry" />
+          <mxGeometry x="-2356" y="755" width="84" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="6apd7ADB_zLI03FITVuS-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2067" y="723" width="42" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
