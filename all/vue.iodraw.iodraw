@@ -22,7 +22,7 @@
         <mxCell id="DCSbAdw2peJywnAf2wr9-4" value="import &#39;vue&#39;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DCSbAdw2peJywnAf2wr9-6" value="import &#39;vue&#39;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DCSbAdw2peJywnAf2wr9-6" value="import &#39;App&lt;span style=&quot;background-color: initial;&quot;&gt;&#39;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
