@@ -16,8 +16,14 @@
         <mxCell id="DCSbAdw2peJywnAf2wr9-2" value="main.js" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DCSbAdw2peJywnAf2wr9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCSbAdw2peJywnAf2wr9-4" target="DCSbAdw2peJywnAf2wr9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DCSbAdw2peJywnAf2wr9-4" value="import &#39;vue&#39;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCSbAdw2peJywnAf2wr9-6" value="import &#39;vue&#39;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
