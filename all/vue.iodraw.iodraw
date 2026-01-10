@@ -28,7 +28,7 @@
         <mxCell id="DCSbAdw2peJywnAf2wr9-6" value="import &#39;App&lt;span style=&quot;background-color: initial;&quot;&gt;&#39;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DCSbAdw2peJywnAf2wr9-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DCSbAdw2peJywnAf2wr9-8" value="import router&lt;div&gt;(optional)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="530" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
