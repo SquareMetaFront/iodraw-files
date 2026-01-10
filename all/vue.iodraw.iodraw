@@ -16,7 +16,7 @@
         <mxCell id="DCSbAdw2peJywnAf2wr9-2" value="main.js" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DCSbAdw2peJywnAf2wr9-4" value="main.js" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DCSbAdw2peJywnAf2wr9-4" value="password" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
